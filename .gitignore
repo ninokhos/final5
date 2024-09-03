@@ -1,2 +1,9 @@
 # Google App Engine generated folder
 appengine-generated/
+node_modules 
+cypress.config.js
+package-lock.json
+test5
+example.json
+e2e.js
+package.json
